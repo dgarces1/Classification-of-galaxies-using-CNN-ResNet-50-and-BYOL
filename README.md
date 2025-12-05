@@ -5,7 +5,7 @@ The work was developed in collaboration with **Nicoly Rodrigues, Thamara Medeiro
 
 The Galaxy10 DECaLS dataset contains images of galaxies divided into 10 classes.
 
-\number-byclass.png
+/Imagens/number-byclass.png
 
 
 
